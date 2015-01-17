@@ -10,11 +10,11 @@ Feature:
 
 Screenshots:
 
-## Main Page
+#### Main Page
 ![Main Page](http://i.imgur.com/tIXq9mc.jpg)
 
-## Example Input Data
+#### Example Input Data
 ![Example Input Data](http://i.imgur.com/m15kREL.jpg)
 
-## Example Output
+#### Example Output
 ![Example Output](http://i.imgur.com/rzWUcsU.jpg)
